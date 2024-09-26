@@ -92,13 +92,3 @@ This is a simple PHP-based weather forecast application that uses the OpenWeathe
 1. Enter a city name in the input field and click "Get Weather" to fetch the forecast.
 2. Use the "Today" and "Tomorrow" buttons to filter the forecast.
 3. Check the `src/Logs/` directory for error and informational logs.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you would like to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
