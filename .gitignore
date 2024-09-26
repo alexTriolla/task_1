@@ -1,0 +1,33 @@
+# Logs
+logs/
+*.log
+src/Logs/
+
+# Runtime data
+tmp/
+temp/
+
+# Cache data
+src/Storage/
+weather_cache.json
+
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore config files
+src/Config/config.php
