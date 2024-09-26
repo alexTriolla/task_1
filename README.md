@@ -61,8 +61,8 @@ This is a simple PHP-based weather forecast application that uses the OpenWeathe
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/alexTriolla/weather-app.git
-    cd weather-app
+    git clone https://github.com/alexTriolla/task_1.git
+    cd task_1
     ```
 
 2. Install Composer dependencies:
